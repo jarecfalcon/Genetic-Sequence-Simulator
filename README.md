@@ -1,16 +1,34 @@
-````-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"
-   `=`,'=/     `=`,'=/     `=`,'=/     `=`,'=/
-     y==/        y==/        y==/        y==/
-   ,=,-<=`.    ,=,-<=`.    ,=,-<=`.    ,=,-<=`.
-,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_```
-
+O---o
+ O-o
+  O
+ o-O
+o---O
+O---o
+ O-o
+  O
+ o-O
+o---O
+O---o
+ O-o
+  O
+ o-O
+o---O
 # Genetic Sequence Simulator
-
-````-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"
-   `=`,'=/     `=`,'=/     `=`,'=/     `=`,'=/
-     y==/        y==/        y==/        y==/
-   ,=,-<=`.    ,=,-<=`.    ,=,-<=`.    ,=,-<=`.
-,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_```
+O---o
+ O-o
+  O
+ o-O
+o---O
+O---o
+ O-o
+  O
+ o-O
+o---O
+O---o
+ O-o
+  O
+ o-O
+o---O
 
 In part of partial fulfillment of the Code-In-Place 2025 course, I wanted to create something that is relevant to my field so I created this simple command-line tool that analyzes DNA sequences.  Briefly, it can compute nucleotide counts, GC content, transcription to RNA, complements, and reverse complements.
 
