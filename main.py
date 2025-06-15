@@ -3,14 +3,7 @@
 # =======================
 
 from input_module import get_sequence, load_sequence_from_file
-from analysis_module import (
-    count_nucleotides,
-    sequence_length,
-    gc_content,
-    transcribe,
-    get_complement,
-    reverse_complement,
-)
+from analysis_module import (count_nucleotides, sequence_length, gc_content, transcribe, get_complement, reverse_complement)
 from utils import clear_screen, print_header
 from plotting import plot_nucleotide_distribution
 
